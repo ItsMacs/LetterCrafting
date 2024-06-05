@@ -1,0 +1,8 @@
+name: LetterCrafting
+version: '${project.version}'
+main: eu.macsworks.fiverr.lettercrafting.LetterCrafting
+api-version: 1.20
+depend: [MacsLibs]
+authors: [MacsWorks]
+description: Plugin to add letter-based crafting to the game
+website: macsworks.eu
